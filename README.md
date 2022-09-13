@@ -10,7 +10,7 @@ To run this locally
 Clone the repository
  
 	cd bradfordsoundartists
-	bundle exec jekyll serve --baseurl=""
+	bundle exec jekyll serve
 	
 ## Contributing
 

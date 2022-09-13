@@ -26,10 +26,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   7 Rawson Place, 
   Bradford 
   BD1 3JP
-baseurl: "/bradfordsoundartists" # the subpath of your site, e.g. /blog
-url: "https://caprenter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bradfordsoundartists.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username:
 facebook_username: FuseArtSpace
 
 # Build settings
