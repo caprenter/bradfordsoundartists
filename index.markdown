@@ -14,9 +14,9 @@ Wednesday 21st September 2022, 5.30pm -7.30pm
 Wednesday 5th October 2022, 12noon -2pm  
 Wednesday 19th October 2022, 5.30pm -7.30pm
 
-## Ambisonic Workshop
+## Ambisonic Workshop (TBC - save the date Sat. 1st Oct. 2022)
 
-Come to a session to find out how to use our 8 speaker ambisonic set up
+Come to a session to find out how to use our 8 speaker ambisonic set up.
 
 {% include about.md %}
 {% include contact.md %}

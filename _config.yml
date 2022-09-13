@@ -22,14 +22,15 @@ title: Bradford Sound Artists
 email: lukas@wearefuse.co
 description: >- # this means to ignore newlines until "baseurl:"
   A place for Sound Art in the Bradford district.
-  Fortnightly at Fuse Art Space
+  Meets fortnightly at Fuse Art Space
   7 Rawson Place, 
   Bradford 
   BD1 3JP
 baseurl: "/bradfordsoundartists" # the subpath of your site, e.g. /blog
 url: "https://caprenter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  
+facebook_username: FuseArtSpace
 
 # Build settings
 theme: minima
