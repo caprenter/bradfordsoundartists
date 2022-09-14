@@ -4,6 +4,8 @@
 
 layout: home
 ---
+![Bradford Sound Artists](assets/images/BradfordSoundArtists_banner.jpg){:class="img-responsive"}
+
 Come curious and we’ll supply the coffees and conversation to a new fortnightly meet-up at Fuse Art Space for people that work with sound and those that might want to.
 
 In association with [Play Music](https://playmusicproject.org.uk/), we are inviting people of any level of ability, hobbyists and career musicians alike, to join us on alternative Wednesday lunchtimes and evenings. 
