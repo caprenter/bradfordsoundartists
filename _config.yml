@@ -33,6 +33,12 @@ github_username:
 facebook_username: FuseArtSpace
 
 show_excerpts: true
+header_pages:
+  - about.md
+  - people.md
+  - resources.md
+  - contact.md
+
 # Build settings
 theme: minima
 plugins:
