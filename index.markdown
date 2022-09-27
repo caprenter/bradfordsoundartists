@@ -31,7 +31,7 @@ Our meetings are usually held at Fuse Arts Space on the:
 
 * Saturday 1st October 2022 - Multi-channel sound workshop
 * Wednesday 5th October 2022, 12noon - 2pm  
-**NB: NOT AT FUSE - 12noon - 2pm to meet at  [Gallery II, Bradford Univeristy.](https://www.google.com/maps/place/Gallery+II/@53.7904989,-1.765923,15z/data=!4m2!3m1!1s0x0:0xfbf7f32abd76de9c?sa=X&ved=2ahUKEwjYs5_NiLX6AhWvTUEAHaZrCqkQ_BJ6BAhUEAU)** Shabina will give a private viewing of here new sound installtion! Parking off Great Horton Road advised. 
+**NB: NOT AT FUSE - 12noon - 2pm to meet at  [Gallery II, Bradford Univeristy.](https://www.google.com/maps/place/Gallery+II/@53.7904989,-1.765923,15z/data=!4m2!3m1!1s0x0:0xfbf7f32abd76de9c?sa=X&ved=2ahUKEwjYs5_NiLX6AhWvTUEAHaZrCqkQ_BJ6BAhUEAU)** Shabina will give a private viewing of her new sound installation! Plenty of time for chat in-between too. Parking off Great Horton Road advised. 
 
 * Wednesday 19th October 2022, 5.30pm -7.30pm
 * Saturday 29th October 2022 - Multi-channel sound workshop
