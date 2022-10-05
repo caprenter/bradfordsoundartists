@@ -14,9 +14,9 @@ In association with [Play Music](https://playmusicproject.org.uk/), we are invit
 
 Come to a session to find out how to use our 8 speaker ambisonic set up.
 
-**Sat 29th October 2022, 1pm - 3pm**
-<br/>[FREE workshops on multi-channel sound (book tickets)](https://www.skiddle.com/whats-on/Bradford/Fuse-Art-Space/Tech-Talk--Ben-Eyes/36172281/) (very limited spaces)
+~~For womxn & minority gender only - [Sat 1st October 12:30 - 2:30pm (book tickets)](https://www.skiddle.com/whats-on/Bradford/Fuse-Art-Space/Artist-Talk-Sophie-Cooper/36172261/)~~
 
+ - For anyone - [Sat 29th October, 1pm - 3pm (book tickets)](https://www.skiddle.com/whats-on/Bradford/Fuse-Art-Space/Tech-Talk--Ben-Eyes/36172281/)
 
 ## Meetings
 
@@ -26,7 +26,6 @@ Our meetings are usually held at Fuse Arts Space on the:
 * THIRD Wednesday of the month in the evening.
 
 ### Upcoming meetings/events
-
 
 * Wednesday 19th October 2022, 5.30pm -7.30pm
 * Saturday 29th October 2022, 1pm - 3pm [Multi-channel sound workshop (book tickets)](https://www.skiddle.com/whats-on/Bradford/Fuse-Art-Space/Tech-Talk--Ben-Eyes/36172281/)
