@@ -10,13 +10,18 @@ Come curious and we’ll supply the coffees and conversation to a new fortnightl
 
 In association with [Play Music](https://playmusicproject.org.uk/), we are inviting people of any level of ability, hobbyists and career musicians alike, to join us on alternative Wednesday lunchtimes and evenings. 
 
-## FREE workshops on multi-channel sound
+## Multi-channel sound
 
-Come to a session to find out how to use our 8 speaker ambisonic set up.
+Fuse is home to an eight speaker ambisonic set up which is available for people to use.
 
-~~For womxn & minority gender only - [Sat 1st October 12:30 - 2:30pm (book tickets)](https://www.skiddle.com/whats-on/Bradford/Fuse-Art-Space/Artist-Talk-Sophie-Cooper/36172261/)~~
+Read about our recent artist talks using the system:
 
- - For anyone - [Sat 29th October, 1pm - 3pm (book tickets)](https://www.skiddle.com/whats-on/Bradford/Fuse-Art-Space/Tech-Talk--Ben-Eyes/36172281/)
+* [Multi-channel Sound Workshop - Sophie Cooper]({% post_url 2022-10-01-multi-channel-sound %})
+* [Tech Talk : Ben Eyes]({% post_url 2022-10-29-mc-sound-twp %})
+
+## Bradford Sound Women Network
+
+There is some cross over between Bradford Sound Artists and the [Bradford Sound Women Network](https://www.facebook.com/profile.php?id=100086324751416). They also meet at Fuse Art Space. 
 
 ## Meetings
 
@@ -27,9 +32,7 @@ Our meetings are usually held at Fuse Arts Space on the:
 
 ### Upcoming meetings/events
 
-* Wednesday 19th October 2022, 5.30pm -7.30pm
-* Saturday 29th October 2022, 1pm - 3pm [Multi-channel sound workshop (book tickets)](https://www.skiddle.com/whats-on/Bradford/Fuse-Art-Space/Tech-Talk--Ben-Eyes/36172281/)
-* Wednesday 2nd November 2022, 12noon - 2pm
+* [Bradford Sound Women Network - Introductory Meet Up](https://www.facebook.com/events/473930954783121)
 * Wednesday 16th November 2022, 5.30pm -7.30pm
 * Wednesday 7th December 2022, 12noon - 2pm
 * Wednesday 21st December 2022, 5.30pm -7.30pm
