@@ -21,7 +21,7 @@ Read about our recent artist talks using the system:
 
 ## Bradford Sound Women Network
 
-There is some cross over between Bradford Sound Artists and the [Bradford Sound Women Network](https://www.facebook.com/profile.php?id=100086324751416). They also meet at Fuse Art Space. 
+There is some cross over between Bradford Sound Artists and the [Bradford Sound Women Network](https://www.facebook.com/profile.php?id=100086324751416). They also meet at Fuse Art Space on the first Saturday of the month.
 
 ## Meetings
 
@@ -32,8 +32,7 @@ Our meetings are usually held at Fuse Arts Space on the:
 
 ### Upcoming meetings/events
 
-* [Bradford Sound Women Network - Introductory Meet Up](https://www.facebook.com/events/473930954783121)
-* Wednesday 16th November 2022, 5.30pm -7.30pm
+* [Bradford Stitch & Glitch - Mixing & Editing](https://www.facebook.com/events/655227616134518/) <br/>[(Bradford Sound Women Network)](https://www.facebook.com/profile.php?id=100086324751416)<br/>Saturday 3rd December 2022, 11am - 2pm 
 * Wednesday 7th December 2022, 12noon - 2pm
 * Wednesday 21st December 2022, 5.30pm -7.30pm
 
