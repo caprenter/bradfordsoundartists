@@ -32,9 +32,12 @@ Our meetings are usually held at Fuse Arts Space on the:
 
 ### Upcoming meetings/events
 
-* [Bradford Stitch & Glitch - Mixing & Editing](https://www.facebook.com/events/655227616134518/) <br/>[(Bradford Sound Women Network)](https://www.facebook.com/profile.php?id=100086324751416)<br/>Saturday 3rd December 2022, 11am - 2pm 
-* Wednesday 7th December 2022, 12noon - 2pm
+<!--* [Bradford Stitch & Glitch - Mixing & Editing](https://www.facebook.com/events/655227616134518/) <br/>[(Bradford Sound Women Network)](https://www.facebook.com/profile.php?id=100086324751416)<br/>Saturday 3rd December 2022, 11am - 2pm -->
+
 * Wednesday 21st December 2022, 5.30pm -7.30pm
+* Wednesday 4th January 2023, 12noon - 2pm
+* Wednesday 18th January 2023, 5.30pm -7.30pm
+* Wednesday 1st February 2023, 12noon - 2pm
 
 
 
