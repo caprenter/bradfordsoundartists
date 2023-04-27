@@ -9,9 +9,10 @@ As it was our first time doing this as a group, it was exciting and interesting 
 We tried to recreate what each other was doing in our minds and realised we remembered quite a lot - where people were and what they were doing - but not entirely the details - what instruments each of us played and what we were playing.
 
 ![Improv 1]({{ '/assets/images/improv1.jpg' | relative_url }}){:class="img-responsive"}
+*Photo: Martin Singleton*
 
 ![Improv 2]({{ '/assets/images/improv2.jpg' | relative_url }}){:class="img-responsive"}
-
+*Photo: Martin Singleton*
 
 We talked about what we might do differently if it happened again.
 Suggestions included;
