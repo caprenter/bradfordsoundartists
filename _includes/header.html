@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <img src="/assets/images/BradfordSoundArtistsLogo.png" align="left" vertical-align="center" width="100" style="padding:0.5rem"/>
+    <a href="{{ "/" | relative_url }}"><img src="/assets/images/BradfordSoundArtistsLogo.png" align="left" vertical-align="center" width="100" style="padding:0.5rem"/></a>
     <a class="site-title" style="max-width: 50%" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if titles_size > 0 -%}
