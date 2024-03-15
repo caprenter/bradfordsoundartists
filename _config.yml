@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Bradford Sound Artists
-email: lukas@wearefuse.co
+email: info@bradfordsoundartists.org.uk
 description: >- # this means to ignore newlines until "baseurl:"
   A place for Sound Art in the Bradford district.
   Meets fortnightly at Fuse Art Space
