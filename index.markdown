@@ -6,13 +6,15 @@ layout: home
 ---
 ![Bradford Sound Artists](assets/images/BradfordSoundArtists_banner.jpg){:class="img-responsive"}
 
-Come curious and we’ll supply the coffees and conversation to a new fortnightly meet-up at Fuse Art Space for people that work with sound and those that might want to.
+Bradford Sound Artists - a group for people that work with sound and those that might want to - were meeting regularly at Fuse Art Space throughout 2023. The idea came from the people behind [Play Music](https://playmusicproject.org.uk/).
 
-In association with [Play Music](https://playmusicproject.org.uk/), we are inviting people of any level of ability, hobbyists and career musicians alike, to join us on alternative Wednesday lunchtimes and evenings. 
+We're now meeting up randomly to work on various projects.
+
+People of any level of ability, hobbyists and career musicians alike, are welcome to join us. 
 
 ## Multi-channel sound
 
-Fuse is home to an eight speaker ambisonic set up which is available for people to use.
+FUSE is home to an eight speaker ambisonic set up which is available for people to use.
 
 Read about our recent artist talks using the system:
 
@@ -21,21 +23,18 @@ Read about our recent artist talks using the system:
 
 ## Bradford Sound Women Network
 
-There is some cross over between Bradford Sound Artists and the [Bradford Sound Women Network](https://www.facebook.com/profile.php?id=100086324751416). They also meet at Fuse Art Space on the first Saturday of the month.
+There is some cross over between Bradford Sound Artists and the [Bradford Sound Women Network](https://www.facebook.com/profile.php?id=100086324751416). They meet at Fuse Art Space on the first Saturday of the month.
 
-## Meetings
+<!--## Meetings
 
 Our meetings are usually held at Fuse Arts Space on the:
 
 * FIRST Wednesday of the month at lunchtime, and
-* THIRD Wednesday of the month in the evening.
+* THIRD Wednesday of the month in the evening.-->
 
 ### Upcoming meetings/events
 
-<!--* [Bradford Stitch & Glitch - Mixing & Editing](https://www.facebook.com/events/655227616134518/) <br/>[(Bradford Sound Women Network)](https://www.facebook.com/profile.php?id=100086324751416)<br/>Saturday 3rd December 2022, 11am - 2pm -->
-
-* Wednesday 3rd May 2023, 12pm - 2pm
-* Wednesday 17th May 2023, 5.30pm - 7.30pm
+We don't have anything planned at the moment.
 
 {% include about.md %}
 {% include contact.md %}
